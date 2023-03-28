@@ -1,0 +1,47 @@
+﻿Quarter,Year,Fuel type,Value
+Q1,2017,Gasoline,403087
+Q2,2017,Gasoline,581151
+Q3,2017,Gasoline,521730
+Q4,2017,Gasoline,423659
+Q1,2018,Gasoline,380187
+Q2,2018,Gasoline,563103
+Q3,2018,Gasoline,500791
+Q4,2018,Gasoline,390802
+Q1,2019,Gasoline,373971
+Q2,2019,Gasoline,527118
+Q3,2019,Gasoline,487211
+Q4,2019,Gasoline,388271
+Q1,2020,Gasoline,303035
+Q2,2020,Gasoline,277460
+Q3,2020,Gasoline,457057
+Q4,2020,Gasoline,347376
+Q1,2021,Gasoline,326146
+Q2,2021,Gasoline,416441
+Q3,2021,Gasoline,384338
+Q4,2021,Gasoline,288436
+Q1,2022,Gasoline,282993
+Q2,2022,Gasoline,351524
+Q3,2022,Gasoline,318834
+Q1,2017,Battery electric,1664
+Q2,2017,Battery electric,2195
+Q3,2017,Battery electric,2400
+Q4,2017,Battery electric,2820
+Q1,2018,Battery electric,2639
+Q2,2018,Battery electric,7393
+Q3,2018,Battery electric,6506
+Q4,2018,Battery electric,6032
+Q1,2019,Battery electric,5273
+Q2,2019,Battery electric,12370
+Q3,2019,Battery electric,10120
+Q4,2019,Battery electric,7760
+Q1,2020,Battery electric,8386
+Q2,2020,Battery electric,6088
+Q3,2020,Battery electric,12601
+Q4,2020,Battery electric,11961
+Q1,2021,Battery electric,12693
+Q2,2021,Battery electric,16167
+Q3,2021,Battery electric,15845
+Q4,2021,Battery electric,14021
+Q1,2022,Battery electric,19695
+Q2,2022,Battery electric,21764
+Q3,2022,Battery electric,29376
